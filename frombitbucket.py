@@ -133,7 +133,7 @@ def StatusInstances(input): #instances state (running,stopped,terminated)
         print("");
 
 
-
+print("\n")
 def filterByTag(getNum): #filter by tags
     zone=connect.describe_availability_zones();
     for zones in zone['AvailabilityZones']:
