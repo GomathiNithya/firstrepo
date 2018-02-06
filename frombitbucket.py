@@ -277,7 +277,7 @@ parser.add_argument("--profile",help="Profile Name");
 
 get=checkConfig();
 args=parser.parse_args();
-
+print("\n\n")
 if args.options=="configure": #configure authentication keys
     configure();
 
