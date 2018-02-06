@@ -31,6 +31,7 @@ zt=[];
 zu=[];
 b=[];
 c=[];
+print("\n")
 
 #methods
 
