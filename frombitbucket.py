@@ -35,7 +35,7 @@ print("\n")
 
 #methods
 
-def insLimit(token): #Instance Limit
+def insLimit(token): #Instance Limit in alla region and specific region
     count=0;
     inscount=0;
     max_limit=0;
