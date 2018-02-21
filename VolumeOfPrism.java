@@ -6,10 +6,8 @@ class VolumeOfPrism
        
       Scanner s= new Scanner(System.in);
         
-         System.out.println("Enter the area of base:");
-         double base=s.nextDouble();
-         System.out.println("Enter the height:");
-         double height=s.nextDouble();
+         double base=10;
+         double height=10();
          
  
           
