@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class VolumeOfPrism 
+public class VolumeOfPrism 
 {
    public static void main(String args[]) 
     {   
